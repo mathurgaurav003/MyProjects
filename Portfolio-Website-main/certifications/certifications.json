@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "name": "Cloud Fundamental Certificate",
+    "desc": "Cloud Fundamental Certificate by Ericsson",
+    "image": "cloud_certificate.jpg",
+   
+    "links": {
+        "view": "https://www.credly.com/badges/3062363d-487c-4b36-9fdc-24c523756036/public_url"
+    }
+},
+  {
+    "id": 1,
+    "name": "Python Training Certificate",
+    "desc": "Internshala Python Training Certificate",
+    "image": "python.jpg",
+   
+    "links": {
+        "view": "https://drive.google.com/file/d/1ntS6S2fSARggWB175lr6VAbhTy0tJUMx/view?usp=share_link"
+    }
+},
+  {
+    "id": 2,
+    "name": "C++ Course Certificate",
+    "desc": "Coursera C++ For C Programmers, Part A and Part B Certificate",
+    "image": "C++ Certificate.jpg",
+   
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1pmaDeTFWOdjopYysNMDN3_OFbCiacIZe?usp=share_link"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Python Training Certificate",
+    "desc": "SPI PVT.LTD Python Employability Skill Training Program",
+    "image": "softpropy.jpg",
+   
+    "links": {
+      "view": "https://drive.google.com/file/d/1J4j9jYwWXHbNy1K8WKWRRMpN2_Q5ttei/view?usp=share_link"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Programming Using Python",
+    "desc": "HackerRank Programming Using Python",
+    "image": "hackpy.jpg",
+   
+    "links": {
+      "view": "https://www.hackerrank.com/certificates/f522bc229f77"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Code Yourself! An Introduction to Programming",
+    "desc": "Coursera Code Yourself! An Introduction to Programming",
+    "image": "courserabasic.jpg",
+   
+    "links": {
+      "view": "https://coursera.org/share/ace2a61e57e34ff105d95c32a6f08923"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Programming for the Internet of Things Project",
+    "desc": "Coursera Programming for the Internet of Things Project",
+    "image": "courseraIoT.jpg",
+   
+    "links": {
+      "view": "https://coursera.org/share/8b92308e46d7d7a067f576548ee85e45"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Introduction to the Internet of Things and Embedded Systems",
+    "desc": "Coursera Introduction to the Internet of Things and Embedded Systems",
+    "image": "CiOt.jpg",
+   
+    "links": {
+      "view": "https://coursera.org/share/8a21519cf96e7ef578e70e552e945800"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Career Edge - Knockdown the Lockdown",
+    "desc": "TCS Career Edge - Knockdown the Lockdown(Soft Skills Certification)",
+    "image": "TCS_Career_Edge.jpg",
+   
+    "links": {
+      "view": "https://drive.google.com/file/d/1sYDxyP7qEXDIWl2o5Y186Z1NQ2Xy54cR/view?usp=share_link"
+    }
+  }
+
+  
+]
